@@ -40,6 +40,7 @@ pip install -r requirements.txt
 ## 使用教程
 
 程序主入口在 `main.py`
+执行前需配置config.ini中的配置
 
 
 原作者：[JD-Assistant](https://github.com/tychxn/jd-assistant) 
